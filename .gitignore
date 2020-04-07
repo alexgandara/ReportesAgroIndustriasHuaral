@@ -1,5 +1,6 @@
 # Compiled class file
 *.class
+*.tst
 
 # Log file
 *.log
@@ -34,4 +35,4 @@ Training
 Blog
 About
 
-*.tst
+
